@@ -8,7 +8,8 @@ The project is still in its early stages and needs much more fine tuning
 
 TODO List 
 1. Add to board eval function a factor for mobility (how many legal moves are available)
-2. Add to board eval function a factor for doubled pawns 
+2. Add to board eval function a factor for doubled pawns and side by side pawns 
 3. Create tree algorithm and pruning to check up to x moves deep in order to optimize algo 
 4. implement GUI to play on so that you dont have to call humanmove() function to play 
-5. Implement NN and train model (similar to LeelaChessZero)
+5. Implement NN and train model (similar to googles alphazero)
+6. Make bot playable on Lichess in order to see actual rating for 5+0 blitz 
