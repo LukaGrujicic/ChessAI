@@ -23,8 +23,11 @@ The project is still in its early stages and needs much more fine tuning
 Readings List.
 These are some recources that have helped this project
 https://towardsdatascience.com/monte-carlo-tree-search-158a917a8baa#:~:text=What%20is%20Monte%20Carlo%20Tree,the%20policy%20of%20the%20game.
+
 https://www.chessprogramming.org/Main_Page
+
 https://kstatic.googleusercontent.com/files/2f51b2a749a284c2e2dfa13911da965f4855092a179469aedd15fbe4efe8f8cbf9c515ef83ac03a6515fa990e6f85fd827dcd477845e806f23a17845072dc7bd
+
 https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0
 
 TODO List 
