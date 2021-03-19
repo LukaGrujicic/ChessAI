@@ -22,6 +22,7 @@ The project is still in its early stages and needs much more fine tuning
 
 Readings List.
 These are some recources that have helped this project
+
 https://towardsdatascience.com/monte-carlo-tree-search-158a917a8baa#:~:text=What%20is%20Monte%20Carlo%20Tree,the%20policy%20of%20the%20game.
 
 https://www.chessprogramming.org/Main_Page
