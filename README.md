@@ -10,8 +10,11 @@ UCB = V + C*sqrt(ln(N)/n)
 Where 
 
 V is the percentage of wins the node has seen wins are calculated as +1 for a win -1 for a loss and 0 for a draw 
+
 C is a exploration/Explotation constant the higher the value the more the code favours exploring nodes wheras the lower it is the more it values exploring nodes that it has good confidence in meaning that those nodes lead to high win percentages
+
 N is the amount of times the parent node has been visited in our case we are running 1600 games each time we look for a move 
+
 n is the amount of time the child node has been visted/explored 
 
 The program will pick the node with the highest UCB score to explore 
@@ -33,7 +36,10 @@ https://kstatic.googleusercontent.com/files/2f51b2a749a284c2e2dfa13911da965f4855
 https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0
 
 TODO List 
+
 1. Implement GUI to play on so that you dont have to call humanmove() function to play 
+
 2. Implement NN and train model (similar to googles alphazero)
+
 3. Make bot playable on Lichess in order to obtain performance rating
 
